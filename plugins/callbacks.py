@@ -35,7 +35,7 @@ async def cb_handler(client, query):
                 [
                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/VJcinemacorner_18"),
                    InlineKeyboardButton("👨‍💻Development👨‍💻", url="https://t.me/Assistant_achuvj_bot"),
-                   InlineKeyboardButton("⚜️Main Channel⚜️"https://t.me/ottmovies_updates")
+                   InlineKeyboardButton("⚜️Main Channel⚜️", url="https://t.me/ottmovies_updates")
                 ],
                 [
                    InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCz_KTkpGwsLNjfMGLhchFsw")
